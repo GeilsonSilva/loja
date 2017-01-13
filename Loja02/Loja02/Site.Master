@@ -14,7 +14,8 @@
         <div class="header">
             <div class="title">
                 <h1>
-                    LOJA</h1>
+                    LOJA 
+                    VIRTUAL</h1>
             </div>
             <div class="loginDisplay">
                 <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
@@ -31,10 +32,10 @@
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
                         <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Home"/>
-                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Produtos"/>
-                        <asp:MenuItem NavigateUrl="~/Default.aspx" Text="Promoções"/>
-                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="Serviços"/>
-                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="Sobre"/>
+                        <asp:MenuItem NavigateUrl="~/Produtos.aspx" Text="Produtos"/>
+                        <asp:MenuItem NavigateUrl="~/Promocoes.aspx" Text="Promoções"/>
+                        <asp:MenuItem NavigateUrl="~/Servico.aspx" Text="Serviços"/>
+                        <asp:MenuItem NavigateUrl="~/Sobre.aspx" Text="Sobre"/>
                     </Items>
                 </asp:Menu>
             </div>
