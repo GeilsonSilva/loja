@@ -1,2 +1,3 @@
 C:\Users\STI\Documents\Visual Studio 2010\Projects\Loja02\Loja02\obj\Debug\Loja02.dll
 C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\LojaVirtual\Loja02\obj\Debug\Loja02.dll
+C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\Loja02\Loja02\obj\Debug\Loja02.dll

@@ -7,3 +7,7 @@ C:\Users\AdminCLI\Documents\Visual Studio 2010\Projects\Loja02\Loja02\bin\Loja02
 C:\Users\AdminCLI\Documents\Visual Studio 2010\Projects\Loja02\Loja02\obj\Debug\Loja02.dll
 C:\Users\AdminCLI\Documents\Visual Studio 2010\Projects\Loja02\Loja02\obj\Debug\Loja02.pdb
 C:\Users\STI\Documents\Visual Studio 2010\Projects\Loja02\Loja02\obj\Debug\Loja02.dll
+C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\Loja02\Loja02\obj\Debug\Loja02.dll
+C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\Loja02\Loja02\bin\Loja02.dll
+C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\Loja02\Loja02\bin\Loja02.pdb
+C:\Users\STI\Documents\Visual Studio 2010\Projects\loja\Loja02\Loja02\obj\Debug\Loja02.pdb
